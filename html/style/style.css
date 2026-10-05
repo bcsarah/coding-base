@@ -1,3 +1,8 @@
+/* @author bcsarah@style.css
+ *
+ * this file contains the main css ofthe application.
+ */
+
 body {
     margin: 0;
     padding: 0;
@@ -5,27 +10,27 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* ===== HEADER ===== */
+/* == [ HEADER ] == */
 header {
 
 }
 
-/* ===== NAV ===== */
+/* == [ NAV ] == */
 nav {
 
 }
 
-/* ===== MAIN ===== */
+/* == [ MAIN ] == */
 main {
 
 }
 
-/* ===== SEÇÕES ===== */
+/* == [ SEÇÕES ] == */
 section {
 
 }
 
-/* ===== FOOTER ===== */
+/* == [ FOOTER ] == */
 footer {
 
 }
